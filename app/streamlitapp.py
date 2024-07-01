@@ -1,4 +1,3 @@
-# Import all Dependancies opencv-python==4.6.0.66 tensorflow==2.10.1 imageio==2.23.0 matplotlib==3.6.2 gdown==4.6.0 streamlit==1.33.0 
 import streamlit as st
 import os
 import imageio
